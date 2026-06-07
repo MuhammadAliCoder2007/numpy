@@ -120,4 +120,9 @@ arr = np.array([1, 2, 3, 4, 5])
 
 
 
-print(random.permutation(arr))
+# print(random.permutation(arr))
+
+
+a = random.normal(loc = 1,scale=2,size=(2,3))
+
+print(a)
